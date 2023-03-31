@@ -6,7 +6,7 @@ For more details, see the [markdown-csv project page](http://elipapa.github.io/m
 
 ***
 
-## Customization
+## Customization for your resume 
 
 Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
 
@@ -33,8 +33,9 @@ To transform your plain text resume into a beautiful and shareable HTML page, yo
 
 3. Head to *yourusername*.github.io/mdresume to see your resume live.
 
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
+You're resume looks pretty good but I would suggest getting some more applicable experience 
 
+I am making suome changes right here 
 ## Styling
 
 The included CSS will render your CV in two styles:
@@ -49,7 +50,7 @@ To change the default style, simply change the variable in the
 
 Any other styling is possible. More CSS style contributions and forks are welcome!
 
-### Author
+### Author for the project 
 
 Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
